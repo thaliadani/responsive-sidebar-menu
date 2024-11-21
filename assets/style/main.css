@@ -53,6 +53,7 @@ body.dark {
     min-width: 60px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .sidebar {
@@ -149,9 +150,14 @@ body.dark .sidebar header .toggle{
     color: var(--text-color);
 }
 
+.sidebar .menu{
+    margin-top: 35px;
+}
+
 .sidebar .search-box{
     background: var(--primary-color-light);
     border-radius: 6px;
+    transition: var(--tran-05);
 }
 
 .search-box input{
@@ -159,9 +165,12 @@ body.dark .sidebar header .toggle{
     width: 100%;
     outline: none;
     border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: 500;
     background: var(--primary-color-light);
-    
     color: var(--text-color);
+    transition: var(--tran-05);
 }
 
 .sidebar li a{
@@ -246,6 +255,7 @@ body.dark .menu-bar .mode i.moon{
     width: 44px;
     border-radius: 25px;
     background: var(--toggle-color);
+    transition: var(--tran-05);
 }
 
 .switch::before{
