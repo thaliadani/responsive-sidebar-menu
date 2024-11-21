@@ -12,6 +12,6 @@
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/1e9a5cb0-cb49-4e6e-aa3d-6437218ff927)
+![image](https://github.com/user-attachments/assets/65c034e2-3e55-4781-a897-8bd7d1b0d3de)
 
 </div><br>
